@@ -1,0 +1,4 @@
++ apex 1.0 D:/Projects/AJHMayaTools/Apex
+MAYA_SCRIPT_PATH+:=scripts
+PYTHONPATH+:=python
+MAYA_NO_WARNING_FOR_MISSING_DEFAULT_RENDERER=1

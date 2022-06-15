@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\alex\\.vscode\\extensions\\fxtd-odyssey.mayapy-1.0.4\\mayaSDK",
+        "C:\\Program Files\\Autodesk\\Maya2020\\Python\\Lib\\site-packages"]
+}
